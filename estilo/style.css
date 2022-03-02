@@ -1,0 +1,173 @@
+@charset  "UTF-8";
+
+
+
+
+
+
+:root{
+            --cor-01: #F80032;
+            --cor-02: #666666;
+            --cor-criarcadastro:#EB3343;
+            --font-politicaentrarecadastro: arial;
+            
+}
+
+body,html{
+        
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0px;
+            padding: 0px;
+            position: relative;
+            color: rgb(95, 93, 93);
+            
+
+}
+
+header{
+    
+            padding-left: 40px;
+            height: 85px;
+            background-color: #F80032;
+            -webkit-box-align: center;
+            align-items: center;
+            display: flex;
+}
+
+h1{
+            text-align: center;
+            font-size: 36px;
+            font-weight: bold;
+            color: #666666;
+}
+form{ 
+            padding-right: 300px;
+            position: relative;
+            margin: auto;
+            line-height: 2em;
+            padding-bottom: 10px;
+    
+}
+.container{
+            min-width: 80vw;
+
+            text-align: left;
+            padding-left: 30%;
+}
+
+
+.nascimento{
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 1px solid black;
+}
+
+.pedidos{
+            text-align: center;
+            line-height: 1.5em;
+            font-size: 1em;
+            font-weight: bold;
+            color: #666666;
+            padding: 5px;
+}
+
+span{
+            color: red;
+    
+}
+
+.campos{
+    
+            font-size: 0.8em;
+            color: black;
+            font-weight: normal;
+
+}
+
+.comentario{
+            font-size: 1em;
+            font-weight: normal;
+            color: #6666668c;
+}
+
+.contato{
+            line-height: normal;
+            margin: 5px;
+}
+
+.nomeemail{
+            width: 250px;
+            border-radius: 10px;
+            padding: 10px;
+    
+}
+
+.cpftelefone{
+            border: 1px solid black;
+            
+            color: black;
+            border-radius: 10px;
+            padding: 10px;
+            width: 100px;
+
+}
+
+.senha{
+            border: 1px solid black;
+            
+            color: black;
+            border-radius: 10px;
+            padding: 10px;
+            width: 200px;
+
+}
+
+h3{
+            text-align: center;
+
+            text-decoration: none;
+            font-size: 1em;
+            margin: 20px auto;
+            padding: 8px;
+            width: 215px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            background-color: #F80032;
+            color: white;
+            border-radius: 4px 4px;
+}
+
+h3>a{
+            color: white;
+            text-decoration: none;
+
+}
+
+.para{
+            padding-top: 15px;
+            margin: 5px;
+            text-align: center;
+}
+
+a{
+
+            color: #807676;
+}
+
+.polipriv{
+            color: #4e4d4d;
+            font-weight: bold;
+}
+
+footer{
+            background-color: #EB3343;
+            padding: 5px;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+}
+
+.cadastro2{
+            text-align: center;
+ }
+
